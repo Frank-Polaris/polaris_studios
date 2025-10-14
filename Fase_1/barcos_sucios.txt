@@ -1,0 +1,14 @@
+nombre,pais,año,tonelaje
+Titanic,Reino Unido,1912,52310
+,Italia,1930,38000
+Yamato,Japón,,72809
+Hood,Reino Unido,1920,
+Titanic,Reino Unido,1912,52310
+Leviatan,Mexico,2023,2000
+Artemisa,Grecia,2019,20300
+Navegante 1,Mexico,2021,20000
+Queen mary,Inglaterra,2025,30000
+The king of seas,Noruega,2025,50000
+Kraken,Alemania,2023,20300
+Eternal,China,2020,15000
+Last stop,Mexico,1998,35000
